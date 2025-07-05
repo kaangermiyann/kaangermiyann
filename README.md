@@ -1,4 +1,7 @@
 # 👋 Hey there! I'm Kaan !
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kaangermiyann&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kaangermiyann" />
+</p>
 
 ---
 
